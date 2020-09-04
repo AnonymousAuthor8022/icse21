@@ -1,0 +1,21 @@
+﻿Run No,dust,lcase_masking,soft_masking,ungapped,xdrop_gap,xdrop_gap_final,xdrop_ungap,word_size,min_raw_gapped_score,strand,show_gis,num_description,num_alignment,line_length,html,max_target_seqs,sum_stats,parse_deflines,num_threads,Quality hits,Distance
+1,20-64-1,unset,FALSE,unset,0.5,0.1,0.1,unset,0,unset,TRUE,unset,unset,1,unset,unset,TRUE,unset,unset,18766,9
+2,yes,unset,FALSE,unset,0,0.1,0.1,unset,10,both,unset,unset,100,unset,TRUE,unset,TRUE,unset,unset,18766,10
+3,unset,unset,FALSE,unset,0.5,0.5,0.5,28,10,both,unset,unset,100,1,unset,unset,TRUE,TRUE,unset,18766,11
+4,yes,unset,FALSE,unset,0,0,0.1,unset,10,unset,TRUE,100,unset,unset,unset,unset,TRUE,unset,100,18766,10
+5,yes,unset,FALSE,unset,0.1,0,0.1,28,unset,unset,unset,10,250,unset,unset,unset,TRUE,unset,2,18766,10
+6,unset,unset,FALSE,TRUE,unset,unset,0.1,28,10,both,unset,unset,unset,1,unset,unset,TRUE,unset,unset,18550,8
+7,unset,unset,FALSE,unset,0,0.1,0.5,unset,unset,both,TRUE,10,unset,unset,unset,unset,TRUE,unset,unset,18766,8
+8,yes,unset,FALSE,unset,0.1,0,0.1,unset,unset,unset,unset,unset,250,unset,unset,unset,TRUE,unset,unset,18766,7
+9,unset,unset,FALSE,unset,0.5,0,0.1,unset,unset,unset,unset,100,unset,5,unset,unset,TRUE,TRUE,2,18766,9
+10,yes,unset,FALSE,unset,0.1,0.1,0.1,28,10,unset,unset,500,10,unset,unset,unset,TRUE,TRUE,2,18600,12
+11,unset,unset,FALSE,unset,0.5,0.5,0.5,unset,unset,unset,unset,unset,unset,unset,unset,unset,TRUE,unset,unset,18766,5
+12,unset,unset,FALSE,unset,0.5,0.1,0.1,28,10,both,unset,0,unset,unset,TRUE,unset,TRUE,unset,1,18766,11
+13,unset,unset,FALSE,unset,0,0,0.1,unset,0,unset,unset,500,unset,unset,unset,unset,TRUE,unset,unset,18766,7
+14,unset,TRUE,FALSE,unset,0,0,0.5,unset,unset,unset,unset,500,1000,100,TRUE,unset,TRUE,unset,100,18766,11
+15,unset,unset,FALSE,unset,0.5,0,0.5,unset,unset,unset,unset,1000,100,unset,unset,unset,TRUE,unset,2,18766,8
+16,unset,unset,FALSE,unset,0.5,0.1,0.1,unset,10,unset,unset,100,unset,100,unset,unset,TRUE,unset,unset,18766,8
+17,unset,unset,FALSE,TRUE,unset,unset,0.5,unset,10,both,unset,500,1000,unset,unset,unset,TRUE,unset,unset,18550,8
+18,unset,TRUE,FALSE,unset,0.1,0,0.1,unset,0,unset,unset,500,250,unset,unset,unset,TRUE,unset,unset,18766,9
+19,yes,unset,FALSE,unset,0,0,0.1,unset,unset,unset,unset,unset,unset,unset,unset,unset,TRUE,unset,100,18766,7
+20,unset,unset,FALSE,unset,0.5,0.1,0.5,unset,unset,unset,unset,0,unset,unset,unset,unset,TRUE,unset,1,18766,7
