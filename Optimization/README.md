@@ -21,24 +21,42 @@ All experiments are run on a parallel computing RedHat Enterprise Linux 7 Server
 
 The GA-RunSummary.csv file bears details of the genetic algorithms's runs for our study. We have presented outcomes of 20 runs. The file's column descriptions are as follows:
 1. Run No: It represents each independent run of the genetic algorithm. 
-2. dust: 
-3. lcase_masking	
-4. soft_masking	
-5. ungapped	
-6. xdrop_gap	
-7. xdrop_gap_final	
-8. xdrop_ungap	
-9. word_size	
-10. min_raw_gapped_score	
-11. strand	
-12. show_gis	
-13. num_description	
-14. num_alignment	
-15. line_length	
-16. html	
-17. max_target_seqs	
-18. sum_stats	
-19. parse_deflines	
-20. num_threads
-21. Quality hits	
-22. Distance
+2. dust: Configuration option from our model under study.
+3. lcase_masking: Configuration option from our model under study.
+4. soft_masking: Configuration option from our model under study.
+5. ungapped: Configuration option from our model under study.
+6. xdrop_gap: Configuration option from our model under study.
+7. xdrop_gap_final: Configuration option from our model under study.
+8. xdrop_ungap: Configuration option from our model under study.
+9. word_size: Configuration option from our model under study.
+10. min_raw_gapped_score: Configuration option from our model under study.	
+11. strand: Configuration option from our model under study.
+12. show_gis: Configuration option from our model under study.
+13. num_description: Configuration option from our model under study.
+14. num_alignment: Configuration option from our model under study.
+15. line_length: Configuration option from our model under study.
+16. html: Configuration option from our model under study.
+17. max_target_seqs: Configuration option from our model under study.
+18. sum_stats: Configuration option from our model under study.
+19. parse_deflines: Configuration option from our model under study.
+20. num_threads: Configuration option from our model under study.
+21. Quality hits: The total number of hits observed for a specific configuration set found by the genetic algorithm.
+22. Distance: The overall distance of the configuration set found by the genetic algorithm from the default configuration set.
+
+The GA-RunTime.csv file bears information about the run time recorded for each of the 20 runs of our genetic algorithm. The file's column descriptions are as follows:
+1. Run No: Represents each independent run of the genetic algorithm. 
+2. Time in nanosec:	The time recorded for a particular run of the algorithm in nanoseconds.
+3. Time in millisec: The time recorded for a particular run of the algorithm in milliseconds.
+4. Time in minutes: The time recorded for a particular run of the algorithm in minutes.
+
+####The overall run statistics can be summarized as follows:
+Average time required for all 20 runs to complete (in minutes): 78.73 minutes.
+Standard deviation calculated for all runs taken together (in minutes): 4.2 minutes.
+The minimum runtime recorded over all 20 runs: 63.78 minutes.
+The maximum runtime recorded over all 20 runs: 84.89	minutes.
+The sum of all 20 runs in minutes: 1574.59 minutes.
+The sum of all runs in hours: 26.2431904 hrs.	
+The sum of all runs in days: 1.093466267 days.	
+
+
+
