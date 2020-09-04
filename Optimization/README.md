@@ -50,13 +50,13 @@ The GA-RunTime.csv file bears information about the run time recorded for each o
 4. Time in minutes: The time recorded for a particular run of the algorithm in minutes.
 
 #### The overall run statistics can be summarized as follows:
-Average time required for all 20 runs to complete (in minutes): 78.73 minutes.
-Standard deviation calculated for all runs taken together (in minutes): 4.2 minutes.
-The minimum runtime recorded over all 20 runs: 63.78 minutes.
-The maximum runtime recorded over all 20 runs: 84.89	minutes.
-The sum of all 20 runs in minutes: 1574.59 minutes.
-The sum of all runs in hours: 26.2431904 hrs.	
-The sum of all runs in days: 1.093466267 days.	
+1. Average time required for all 20 runs to complete (in minutes): 78.73 minutes.
+2. Standard deviation calculated for all runs taken together (in minutes): 4.2 minutes.
+3. The minimum runtime recorded over all 20 runs: 63.78 minutes.
+4. The maximum runtime recorded over all 20 runs: 84.89	minutes.
+5. The sum of all 20 runs in minutes: 1574.59 minutes.
+6. The sum of all runs in hours: 26.2431904 hrs.	
+7. The sum of all runs in days: 1.093466267 days.	
 
 
 
