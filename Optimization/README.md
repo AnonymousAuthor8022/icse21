@@ -49,7 +49,7 @@ The GA-RunTime.csv file bears information about the run time recorded for each o
 3. Time in millisec: The time recorded for a particular run of the algorithm in milliseconds.
 4. Time in minutes: The time recorded for a particular run of the algorithm in minutes.
 
-####The overall run statistics can be summarized as follows:
+#### The overall run statistics can be summarized as follows:
 Average time required for all 20 runs to complete (in minutes): 78.73 minutes.
 Standard deviation calculated for all runs taken together (in minutes): 4.2 minutes.
 The minimum runtime recorded over all 20 runs: 63.78 minutes.
