@@ -12,20 +12,20 @@ Our fitness equation is : (no of quality hits)+w\_distance, where w\_distance is
 
 ## Genetic Algorithm Results
 
-### The GA-RunSummary.csv file bears details of the genetic algorithms's runs for our study. We have presented outcomes of 20 runs. The file's column descriptions are as follows:
+#### The GA-RunSummary.csv file bears details of the genetic algorithms's runs for our study. We have presented outcomes of 20 runs. The file's column descriptions are as follows:
 1. **Run No:** It represents each independent run of the genetic algorithm. 
 2. -20. **Configuration options from our model under study:**
     - dust, lcase_masking, soft_masking, ungapped, xdrop_gap, xdrop_gap_final, xdrop_ungap, word_size, min_raw_gapped_score, strand, show_gis, num_description, num_alignment, line_length, html, max_target_seqs, sum_stats, parse_deflines, num_threads
 21. **Quality hits:** The total number of hits observed for a specific configuration set found by the genetic algorithm.
 22. **Distance:** The overall distance of the configuration set found by the genetic algorithm from the default configuration set.
 
-### The GA-RunTime.csv file bears information about the run time recorded for each of the 20 runs of our genetic algorithm. The file's column descriptions are as follows:
+#### The GA-RunTime.csv file bears information about the run time recorded for each of the 20 runs of our genetic algorithm. The file's column descriptions are as follows:
 1. **Run No:** Represents each independent run of the genetic algorithm. 
 2. **Time in nanosec:**	The time recorded for a particular run of the algorithm in nanoseconds.
 3. **Time in millisec:** The time recorded for a particular run of the algorithm in milliseconds.
 4. **Time in minutes:** The time recorded for a particular run of the algorithm in minutes.
 
-### The overall run statistics can be summarized as follows:
+#### The overall run statistics can be summarized as follows:
 1. **Average time required for all 20 runs to complete (in minutes):** 78.73 minutes.
 2. **Standard deviation calculated for all runs taken together (in minutes):** 4.2 minutes.
 3. **The minimum runtime recorded over all 20 runs:** 63.78 minutes.

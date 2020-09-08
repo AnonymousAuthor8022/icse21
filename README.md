@@ -1,4 +1,4 @@
-## This repository contains data for the ICSE 2021 paper entitled: ICON: A Framework for Interpretable Configuration Options
+### This repository contains data for the ICSE 2021 paper entitled: ICON: A Framework for Interpretable Configuration Options
 * Author detail suppressed
 
 
