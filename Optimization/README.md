@@ -13,10 +13,10 @@ Our fitness equation is : (no of quality hits)+w\_distance, where w\_distance is
 ## Genetic Algorithm Results
 
 #### The GA-RunSummary.csv file bears details of the genetic algorithms's runs for our study. We have presented outcomes of 20 runs. The file's column descriptions are as follows:
-**Column 1** denotes the **run no** which represents each independent run of the genetic algorithm. 
-**Columns 2 to 20** denote the following **configuration options** from our model under study:
-    dust, lcase_masking, soft_masking, ungapped, xdrop_gap, xdrop_gap_final, xdrop_ungap, word_size, min_raw_gapped_score, strand, show_gis, num_description, num_alignment, line_length, html, max_target_seqs, sum_stats, parse_deflines, num_threads
-**Column 21** denote the **quality hits** which is the total number of hits observed for a specific configuration set found by the genetic algorithm.
+**Column 1** denotes the **run no** which represents each independent run of the genetic algorithm. <br/>
+**Columns 2 to 20** denote the following **configuration options** from our model under study:<br/>
+    dust, lcase_masking, soft_masking, ungapped, xdrop_gap, xdrop_gap_final, xdrop_ungap, word_size, min_raw_gapped_score, strand, show_gis, num_description, num_alignment, line_length, html, max_target_seqs, sum_stats, parse_deflines, num_threads.<br/>
+**Column 21** denote the **quality hits** which is the total number of hits observed for a specific configuration set found by the genetic algorithm.<br/>
 **Column 22** denote the **distance** of the configuration set found by the genetic algorithm from the default configuration set.
 
 #### The GA-RunTime.csv file bears information about the run time recorded for each of the 20 runs of our genetic algorithm. The file's column descriptions are as follows:
